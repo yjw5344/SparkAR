@@ -16,7 +16,8 @@ Spark AR 플랫폼을 통해서 Facebook Family Application(Facebook, Instagram,
 
 
 [Go to SparkAR](https://sparkar.facebook.com/ar-studio/)
-![SparkAR WebPage](./DOC/img/homepage.png)
+
+![SparkAR WebPage](./Doc/img/homepage.png)
 
 
 ## Tutorial 목차
