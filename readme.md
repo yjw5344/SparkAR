@@ -22,4 +22,4 @@ Spark AR 플랫폼을 통해서 Facebook Family Application(Facebook, Instagram,
 
 ## Tutorial 목차
 
-- [Tutorial #01 - Tatoo 이미지 추가하기](./Doc/Tutorial#01.md)
+- [Tutorial #01 - Tatoo 이미지 추가하기](./Doc/Tutorial_01.md)
