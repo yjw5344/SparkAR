@@ -4,7 +4,7 @@
 
 Facebook Family Application에 적용 가능한 AR
 
-## Spark AR Playform
+## Spark AR Platform
 
 Spark AR 플랫폼을 통해서 Facebook Family Application(Facebook, Instagram, ...)에 적용 가능한 AR 효과를 개발, 출시, 관리할 수 있는 플랫폼이다.
 
