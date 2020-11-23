@@ -46,7 +46,7 @@
 >
 > Scene에 추가된 FaceTracker를 클릭하면, 얼굴의 중심을 오브젝트로 인식하는 것을 확인할 수 있다.
 
-![facetracker](./img/facetracker.png)
+![facetracker](./img/faceTracker.png)
 
 ### FaceMesh 추가하기
 
